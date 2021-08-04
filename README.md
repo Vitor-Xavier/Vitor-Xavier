@@ -3,9 +3,12 @@
 Atualmente trabalho como desenvolvedor full stack.
 
 <div>
+  <a href="https://github.com/vitor-xavier/InventoryDemo" />
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=vitor-xavier&repo=InventoryDemo&layout=compact&theme=ayu-mirage&locale=pt-BR" />
+  </a>
   <a href="https://github.com/vitor-xavier" />
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=vitor-xavier&repo=InventoryDemo&layout=compact&theme=ayu-mirage&locale=pt-BR" />
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-xavier&layout=compact&theme=ayu-mirage&locale=pt-BR&langs_count=4" />
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-xavier&layout=compact&theme=ayu-mirage&locale=pt-BR&langs_count=4" />
+  </a>
 </div>
 
 #####
