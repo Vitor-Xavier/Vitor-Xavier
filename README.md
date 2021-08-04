@@ -4,13 +4,13 @@ Atualmente trabalho como desenvolvedor full stack.
 
 <div>
   <a href="https://github.com/vitor-xavier" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vitor-xavier&repo=InventoryDemo&layout=compact&theme=ayu-mirage&locale=pt-BR" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-xavier&layout=compact&theme=ayu-mirage&locale=pt-BR&langs_count=4" />
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=vitor-xavier&repo=InventoryDemo&layout=compact&theme=ayu-mirage&locale=pt-BR" />
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-xavier&layout=compact&theme=ayu-mirage&locale=pt-BR&langs_count=4" />
 </div>
 
 #####
 
-<p style="margin-top: 16px;" margin-top="16px" align="left">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
